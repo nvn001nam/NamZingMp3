@@ -846,7 +846,7 @@ var Home = (function () {
       {
         image: "../Content/image/Playlist/PersonalPlaylist/lcksummer2022.jpg",
         name: "League Of Legends - Playlist Mix",
-        author: "Dương Hiệp",
+        author: "Nam Nguyễn",
         dataPlaylist: 8
       },
       {
